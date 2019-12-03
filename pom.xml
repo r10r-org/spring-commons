@@ -16,14 +16,13 @@
 
 -->
 
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.r10r</groupId>
     <artifactId>spring-commons</artifactId>
     <packaging>pom</packaging>
-    <version>1.1.2-SNAPSHOT</version>
+    <version>1.0.0</version>
     <url>http://github.com/r10r-org/spring-commons</url>
     <name>${project.artifactId}</name>
     <description>Spring Commons - Tools for Spring</description>
@@ -43,7 +42,7 @@
         <url>https://github.com/r10r-org/spring-commons</url>
         <connection>scm:git://github.com/r10r-org/spring-commons.git</connection>
         <developerConnection>scm:git:git@github.com:r10r-org/spring-commons.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>spring-commons-1.0.0</tag>
     </scm>
 
     <issueManagement>
